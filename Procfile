@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT vicmus_5183.wsgi:application
